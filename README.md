@@ -1,6 +1,6 @@
 # switch-control
 
-switch-control (Kicad Versión: 5.99.0, release build)
+switch-control/Crossover switch (Kicad Versión: 5.99.0, release build)
 
 Interruptor, conmutador (doble), cruzamiento, controlado con un modulo ESP8266, lo estoy usando con Tasmota (https://github.com/arendst/Tasmota), con la siguiente configuración:
 D2 GPIO4  Botón1in (126)
